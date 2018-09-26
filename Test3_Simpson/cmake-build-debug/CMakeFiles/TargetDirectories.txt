@@ -1,0 +1,3 @@
+C:/Users/loghd/CLionProjects/Test3_Simpson/cmake-build-debug/CMakeFiles/Test3_Simpson.dir
+C:/Users/loghd/CLionProjects/Test3_Simpson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loghd/CLionProjects/Test3_Simpson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
